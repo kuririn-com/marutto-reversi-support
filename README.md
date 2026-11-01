@@ -1,0 +1,2 @@
+# marutto-reversi-support
+まるっとリバーシのサポートとプライバシーポリシー
